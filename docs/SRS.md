@@ -1,5 +1,6 @@
 # Listado de requerimientos para un Sistema de agencia de viajes
-
+# CRISTIAN CAMILO PUENTES YEPES
+# usuario Git @cristian1231a
 # Objetivo
 
 # Lista de requerimientos
